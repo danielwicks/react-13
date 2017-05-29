@@ -1,3 +1,9 @@
+# Overview
+
+This project is a short example react project, including associated technologies.
+ 
+It is based upon the getting started with react pluralsight course: https://app.pluralsight.com/library/courses/react-js-getting-started/
+
 # Installation
 
 ## Node
