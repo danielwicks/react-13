@@ -1,0 +1,12 @@
+{
+  "name": "react-13-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel src -d js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.1.8"
+  }
+}
